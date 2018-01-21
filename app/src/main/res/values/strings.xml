@@ -356,8 +356,7 @@
     <string name="mqtt_disable">Disable</string>
     <string name="mqtt_service_status">Mqtt Service Status:</string>
 
-    <string name="mqtt_qrconfig">Configure using AdafruitIO QR-Code</string>
-    <string name="mqtt_qrconfig_action">Scan Code</string>
+    
 
     <string name="mqtt_status_connected">Connected</string>
     <string name="mqtt_status_disconnected">Disconnected</string>

@@ -469,7 +469,6 @@ public class InfoActivity extends AppCompatActivity implements BleManager.BleMan
 //            HRseries.resetData()
 
             globalHR = heartRate; //valueString;
-           // globalRR = String.format("%d", RRI); //valueString;
             if(recordingLog==true)
             {
                 writeLog("", new float[] {globalHR, globalMean,globalSDNN, globalPNN, globalRMSSD});
